@@ -1,0 +1,117 @@
+@media (min-width:992px) and (max-width: 1024px) {
+	.classus{ display:none;}
+	.jain_container  .navbar-header {    width: 9%;}
+	.jain_container .nav>li>a {    padding: 15px 10px;}
+	.hotels_abouts h2 {font-size: 20px; line-height: 19px;}
+	.banner_hotels_all .hotels_abouts {  padding: 5px 9px;}
+	.new_years {  width: 65%;}
+	.jain_container .carousel-caption {    top: 28%;}
+	.tagliness{    top: 25%;    left: 22%;    width: 52%;}
+	.jain_container .tagline h3 span {    font-size: 44px;}
+	#hotel_alls .col-md-10 {    width: 99%;    margin-left: 0%;}
+	.jain_container .tagline h3{    font-size: 35px;   margin-bottom: 35px;}
+	.offers_off p{font-size: 14px;}
+	.offers_off h4{    font-size: 18px;}
+	.offers_off{    margin-top: -90px;     padding: 3px 0px;}
+	.barands_menus ul li{    padding: 4px;}
+	
+	.banner_hotels_all  h1{    font-size: 18px; letter-spacing: 2px;}
+	.banner_home .carousel-indicators{    width: 23%;}
+	.navbar-default .navbar-toggle{ margin-top:3%;}
+}
+
+
+
+@media (min-width:768px) and (max-width: 991px) {
+	.banner_hotels_all img{ width:100%;}
+	.hotels_abouts img {    width: inherit;}
+	.all_offers_in .col-md-4 {      width: 33%;    float: left;}
+	.offers_off{    margin-top: 0px;}
+	.wedding_slide_tag h3{    line-height: inherit;}
+	.hotelslog img {    width: inherit;}
+}
+
+
+/* Phone media Query   */
+@media screen and (max-width: 768px) {
+	.offers_off .col-md-5{ padding:0px;}
+	.banner_home{     margin-top: 70px;}
+	.all_hotels_footer .col-md-8 {padding: 0px;     text-align: left !important;}
+    
+	a.book-btnss {
+    right: 33%!important;
+    bottom: 56%!important;
+    padding: 3px 18px!important;
+}
+    
+    canvas#canvas {
+    height: 50%!important;
+}
+	
+	.hotelslog img{ width:100%;}
+	.classus p{    font-size: 16px;
+    text-transform: uppercase;
+     text-align: left;
+margin-left: 0px;	 }
+	.form-horizontal_x .btn-default{ width:100%;}
+	  .mobiles_book { display:block; background: #000000;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0px;
+    z-index: 999;
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 3px;}
+	  .mobile_booking{ position:fixed; background:#4c1f1e; width:100%; z-index:999;  padding:10px 0px; bottom:40px; display:none;}
+	.tagliness {
+    position: relative; left: 0; width: 100%;}
+	
+	.banner_hotels_all .hotels_abouts {     height: inherit;     padding: 10px;}
+	.site_menus{ float:left;}
+	.right_logo_glodan{float: left; width:100%;}
+	.footers_media ul {    padding: 0px;}
+	#myCarousel_wedding .carousel-indicators {  bottom: 40%;}
+	.hotels_loc span { font-size: 12px;}
+	.hotels_loc {top: 0px;left: 0%;padding: 6px 8px; width: 50%;}
+	.hotels_loc h3 { margin: 10px 0;    font-size: 16px;}
+	.jain_container .navbar-default{ position: fixed;
+    top: 0px;
+    background: #fff;}
+	.medias{ display:none;}
+	.jain_container .navbar-brand>img{    width: 50%;     padding: 0px;}
+	#hotel_alls {    padding: 21px 0px;}
+	.banner_hotels_all  h1{    line-height: 22px; font-size: 18px;     letter-spacing: 0px;}
+	.jain_container .tagline h3{ display:none;}
+	.jain_container .carousel-caption{    position: relative;     left: inherit;}
+	.new_years {    width: 100%;}
+	.banner_home .carousel-indicators {bottom: 58%;right: -22px;width: 27%;margin-left: 0px;}
+	
+	.banner_home .carousel-caption{    bottom: 0px;   padding-bottom: 0px;}
+	#myCarousel_hotels .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{     margin-left: -25px;}
+	#myCarousel_hotels .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {    margin-right: -26px;}
+	
+	.banner_hotels_all_abouts p{    line-height: 22px;     text-align: justify;}
+	.wedding_slide_tag{    top: 4%;}
+	.wedding_slide_tag h3 {   font-size: 18px;     line-height: 19px;} 
+	.site_menus ul{    float: left;    width: 100%; }
+	.barands_menus{ display:none;}
+	/* .site_menus{display:none;} */
+	.footers_adds {    border-right:none;}
+	.footers_media h3{    padding-left: 0px; text-align: center;}
+	.footers_media ul li{padding: 0px 5px;}
+	.footers_adds p{text-align: center;}
+	.right_logo_glodan_inner {    width: 100%;    float: initial; text-align: center;}
+	.wedding_forms { width: 100%;left: 0; margin-top: 0;}
+	#footersl{    padding: 60px 0px 50px 0px;}
+	.jain_container .btn-default{ font-size:14px;}
+	.wedding_forms .form-control {    border: none;    font-size: 12px;     background: #4c1f1e;
+    color: #fff;}
+	.offers_off{background: #4c1f1e;width: 100%;     margin-top: 0px;     padding: 0px 10px;}
+	.footers_media {    text-align: center;}
+	.footers_adds h3{text-align: center;}
+	
+}
